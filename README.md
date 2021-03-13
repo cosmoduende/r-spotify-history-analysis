@@ -3,3 +3,6 @@ Explore your activity on Spotify with R and "spotifyr": How to analyze and visua
 
 ### *Versión en español*
 Explora tu actividad en Spotify con R y “spotifyr”: Análisis y visualización de datos de tu historial y gustos musicales. Descubre cómo y cuánto consumes de Spotify, usando una copia de tus datos personales y el package “spotifyr”. Artículo en Medium: https://cosmoduende.medium.com/explora-tu-actividad-en-spotify-con-r-y-spotyfyr-an%C3%A1lisis-y-visualizaci%C3%B3n-de-tus-datos-y-gustos-1d939b42f54f
+
+#### *Project preview*
+https://www.youtube.com/watch?v=s2dKdddGfYg
